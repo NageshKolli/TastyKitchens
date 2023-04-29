@@ -1,3 +1,8 @@
+TASTY KITCHENS 
+
+YOU CAN ACCEES THIS PROJECT USING THIS LINK:https://github.com/NageshKolli/TastyKitchens.git
+USERNAME : rahul, PASSWORD: rahul@2021 
+
 App Features **
 
 In this mini-project , I’ve built Tasty Kitchens Swiggy clone Responsive food delivery app with functionality like,
